@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Mi
+Build-Jdk: 14.0.2
+Implementation-Title: jsf-primefaces-datatable-mysql
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.codenotfound
+Implementation-Vendor: JoinFaces
+Implementation-URL: https://www.codenotfound.com/jsf-primefaces/
+Created-By: Maven Integration for Eclipse
+
